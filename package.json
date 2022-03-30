@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/hyhy425/nomadcoffee-backend#readme",
   "dependencies": {
+    "@prisma/client": "^3.11.1",
     "apollo-server": "^2.25.2",
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
     "graphql": "^15.4.0",
     "graphql-tools": "^7.0.2"
