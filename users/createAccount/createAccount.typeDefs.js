@@ -12,7 +12,4 @@ export default gql`
       githubUsername: String
     ): User
   }
-  type Query {
-    seeProfile(username: String!): User
-  }
 `;
